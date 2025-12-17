@@ -1,5 +1,5 @@
 # Tugas-Akhir-RPL-2
-Kelompok 5 - Web Pelaporan Kerja PPSU Kelurahan Rawamangun 
+Kelompok 5 - Web 
 Anggota Kelompok: 
 - Annas Rizky (50422231)
 - M. Ikhwan Fadilah (50422948)
